@@ -75,6 +75,10 @@ This provides interactive documentation of all available endpoints.
   "completed": false
 }
 ```
+👤 Author
+
+AFZAL K A
+📎 GitHub: @afzal-ka
 
 ---
 
