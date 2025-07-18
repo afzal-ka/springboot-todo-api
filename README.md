@@ -1,7 +1,6 @@
 # 📝 To-Do List REST API
 
-A simple backend-only RESTful To-Do List API built with **Spring Boot**.  
-Supports full CRUD operations with an in-memory H2 database and auto-generated API documentation using Swagger UI.
+A simple RESTful To-Do List API built using Spring Boot, designed to perform full CRUD operations: Create, Read, Update, and Delete. The application uses an H2 in-memory database for quick development and testing, and includes Swagger UI for interactive and well-documented API exploration.
 
 ---
 
